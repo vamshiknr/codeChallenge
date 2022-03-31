@@ -1,1 +1,0 @@
-module.exports = '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'
